@@ -3,16 +3,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.blibli.oss</groupId>
-  <artifactId>common-plugin</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <artifactId>common-plugin2</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>common-plugin</name>
-  <description>Common Library for Spring Boot</description>
+  <description>Common Library for Spring Boot 2</description>
 
   <scm>
-    <connection>scm:git:git@github.com:bliblidotcom/common-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:bliblidotcom/common-plugin.git</developerConnection>
+    <connection>scm:git:git@github.com:bliblidotcom/common-plugin2.git</connection>
+    <developerConnection>scm:git:git@github.com:bliblidotcom/common-plugin2.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
@@ -95,7 +95,7 @@
     <repository>
       <id>bintray-bliblidotcom-maven</id>
       <name>bliblidotcom-maven</name>
-      <url>https://api.bintray.com/maven/bliblidotcom/maven/common-plugin/;publish=1</url>
+      <url>https://api.bintray.com/maven/bliblidotcom/maven/common-plugin2/;publish=1</url>
     </repository>
   </distributionManagement>
 
